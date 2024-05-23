@@ -1,1 +1,1 @@
-My frontend: https://ya-pindie-frontend.nomoredomainswork.ru/
+My backend: https://ya-pindie-backend.nomoredomainswork.ru/
